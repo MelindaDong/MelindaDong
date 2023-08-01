@@ -22,7 +22,7 @@ I am a passionate junior data scientist with a strong foundation in machine lear
 I'm open to collaboration, job opportunities, and discussing exciting data science projects. You can reach me through the following channels:
 
 - Email: nanyu.melinda@gmail.com
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/melinda-dong-14458b259/
 
 ### Let's Connect
 
