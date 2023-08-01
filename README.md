@@ -15,7 +15,7 @@ I am a passionate junior data scientist with a strong foundation in machine lear
 - Data Visualization: Matplotlib, Seaborn, Plotly
 - Machine Learning: Regression, Classification, Clustering, Time Series Analysis, Natural language processing
 - Tools: Jupyter Notebook, Git, GitHub
-- Cloud: AWS, Google Cloud Platform (GCP)
+- Cloud: AWS
 
 ### Contact Me
 
