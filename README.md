@@ -10,7 +10,7 @@ I am a passionate junior data scientist with a strong foundation in machine lear
 
 ### Technical Skills
 
-- Programming: Python, R
+- Programming: Python, R, Julia
 - Data Manipulation: SQL
 - Data Visualization: Matplotlib, Seaborn, Plotly
 - Machine Learning: Regression, Classification, Clustering, Time Series Analysis, Natural language processing
