@@ -10,53 +10,20 @@ I am a passionate junior data scientist with a strong foundation in machine lear
 
 ### Technical Skills
 
-- Programming: Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), R
+- Programming: Python, R
 - Data Manipulation: SQL
 - Data Visualization: Matplotlib, Seaborn, Plotly
-- Machine Learning: Regression, Classification, Clustering, Time Series Analysis
+- Machine Learning: Regression, Classification, Clustering, Time Series Analysis, Natural language processing
 - Tools: Jupyter Notebook, Git, GitHub
 - Cloud: AWS, Google Cloud Platform (GCP), Microsoft Azure (optional)
-
-### Projects
-
-#### [Project 1: Project Name]
-
-- Description: [Brief description of the project]
-- Technologies: [List of technologies used]
-- GitHub Repository: [Link to the GitHub repository]
-- Blog Post (optional): [Link to any related blog post]
-
-#### [Project 2: Project Name]
-
-- Description: [Brief description of the project]
-- Technologies: [List of technologies used]
-- GitHub Repository: [Link to the GitHub repository]
-- Blog Post (optional): [Link to any related blog post]
-
-### Achievements
-
-- [Any relevant achievements, awards, or certifications]
-
-### Blog
-
-I occasionally write about data science topics on my blog. You can find some of my articles there.
-
-- [Link to your blog]
 
 ### Contact Me
 
 I'm open to collaboration, job opportunities, and discussing exciting data science projects. You can reach me through the following channels:
 
-- Email: [Your Email Address]
-- LinkedIn: [Link to your LinkedIn profile]
-- Twitter: [Your Twitter handle, if applicable]
+- Email: nanyu.melinda@gmail.com
+- LinkedIn: 
 
 ### Let's Connect
 
 If you share similar interests in data science, machine learning, or AI, I'd love to connect with you. Feel free to follow me or send a connection request!
-
-### Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true)
-
-
