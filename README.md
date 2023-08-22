@@ -6,7 +6,8 @@ I am a passionate junior data scientist with a strong foundation in machine lear
 
 ### Education
 
-- Master's Degree in Data science, University of Adelaide
+- Master Degree in Data science, University of Adelaide
+- Bachelor Degree in Public administration, Wuhan University of science and technology
 
 ### Technical Skills
 
